@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/unbundle/static/css/main.fab8ee6a.css",
+    "main.js": "/unbundle/static/js/main.9df3561d.js",
+    "index.html": "/unbundle/index.html",
+    "main.fab8ee6a.css.map": "/unbundle/static/css/main.fab8ee6a.css.map",
+    "main.9df3561d.js.map": "/unbundle/static/js/main.9df3561d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fab8ee6a.css",
+    "static/js/main.9df3561d.js"
+  ]
+}
